@@ -138,8 +138,8 @@ Der Fehler **58tm1** wurde durch einen Konflikt mit Legacy-Authentifizierung ver
 * Weniger Anmeldefehler in RDS/FSLogix-Umgebungen
 * Höheres Sicherheitsniveau
 
-[1]: https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-conditional-access?utm_source=chatgpt.com "Microsoft Entra Conditional Access | Microsoft Security"
-[2]: https://www.active-directory-faq.de/2025/03/sicherheitsrichtlinien-mit-conditional-access-in-microsoft-entra/?utm_source=chatgpt.com "Conditional Access in Entra - So sichern Sie Ihren Cloud-Zugriff"
-[3]: https://www.preludesecurity.com/blog/understanding-conditional-access-policies-in-entra-id?utm_source=chatgpt.com "Understanding Conditional Access Policies in Entra ID"
-[4]: https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview?utm_source=chatgpt.com "Microsoft Entra Conditional Access: Zero Trust Policy Engine"
-[5]: https://www.atmosera.com/blog/conditional-access-policies-azure/?utm_source=chatgpt.com "10 Policies for Conditional Access in Azure That Every ..."
+https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-conditional-access?utm_source=chatgpt.com "Microsoft Entra Conditional Access | Microsoft Security"
+https://www.active-directory-faq.de/2025/03/sicherheitsrichtlinien-mit-conditional-access-in-microsoft-entra/?utm_source=chatgpt.com "Conditional Access in Entra - So sichern Sie Ihren Cloud-Zugriff"
+https://www.preludesecurity.com/blog/understanding-conditional-access-policies-in-entra-id?utm_source=chatgpt.com "Understanding Conditional Access Policies in Entra ID"
+https://learn.microsoft.com/en-us/entra/identity/conditional-access/overview?utm_source=chatgpt.com "Microsoft Entra Conditional Access: Zero Trust Policy Engine"
+https://www.atmosera.com/blog/conditional-access-policies-azure/?utm_source=chatgpt.com "10 Policies for Conditional Access in Azure That Every ..."
